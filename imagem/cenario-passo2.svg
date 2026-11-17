@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs><linearGradient id="ceu" x2="0" y2="1"><stop stop-color="#82c7df"/><stop offset="1" stop-color="#ffe2ad"/></linearGradient></defs>
+  <rect width="640" height="360" fill="url(#ceu)"/><circle cx="520" cy="64" r="34" fill="#ffe59a"/>
+  <path d="M0 237q130-64 253 4t235-7 152 6v120H0Z" fill="#26899a"/>
+  <path d="M0 272q135-41 268 10t240-2 132 2v78H0Z" fill="#eecb8e"/>
+  <path d="M34 224V126h83v98m-67-98 25-42 26 42m-55 27h20v25H55Zm35 0h19v25H90Z" fill="#f3e8d1" stroke="#945c45" stroke-width="5"/>
+  <path d="M142 235V100h95v135m-98-135 48-49 51 49m-80 22h23v26h-23Zm43 0h22v26h-22Zm-21 56h26v57h-26Z" fill="#e9a47e" stroke="#754e43" stroke-width="5"/>
+  <path d="M262 239V143h76v96m-81-96 42-38 41 38m-65 19h19v23h-19Zm36 0h18v23h-18Z" fill="#fff0d4" stroke="#945c45" stroke-width="5"/>
+  <path d="M405 260q18-46 36 0m-10 4q22-62 45 0m-9 10q23-47 43 0" fill="none" stroke="#287047" stroke-width="11" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs><linearGradient id="ceu" x2="0" y2="1"><stop stop-color="#90c6dd"/><stop offset="1" stop-color="#e7edcc"/></linearGradient></defs>
+  <rect width="640" height="360" fill="url(#ceu)"/><path d="m0 280 145-165 96 114 121-178 180 230 98-92v171H0Z" fill="#467656"/>
+  <path d="m110 283 131-54 121-178 102 201 73-43v151H94Z" fill="#305b42"/>
+  <path d="M0 309q120-40 239 0t235-2 166 2v51H0Z" fill="#244635"/>
+  <path d="m371 122 42 17-11 19 24 11-27 21 15 20-38 18-25-24 13-26-16-22Z" fill="#c6a878" stroke="#553e2d" stroke-width="5"/>
+  <path d="m374 149 12 10-10 12m14 7 11 8-14 10m-12-2-9 9" fill="none" stroke="#49382b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M0 337q94-27 178-5m296-4q76-32 166 6" fill="none" stroke="#78a16e" stroke-width="8"/>
+</svg>
